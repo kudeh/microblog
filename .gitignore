@@ -15,5 +15,5 @@ build/
 *.egg-info/
 
 *.pot
-
+.env
 .flaskenv
